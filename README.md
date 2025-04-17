@@ -45,7 +45,7 @@
 
 1. **Clone or navigate to the project directory**:
    ```bash
-   cd DinoRL/
+   DinoRL/
    ```
 
 2. **(Optional) Create and activate a virtual environment**:

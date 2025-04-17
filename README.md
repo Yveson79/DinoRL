@@ -1,8 +1,3 @@
-README.md
-Create a file named README.md in your project directory (/home/y/Área de trabalho/Deposit/Meus projetos/DinoRL/) with the following content:
-markdown
-# DinoRL
-
 DinoRL is a Q-learning-based game where an agent learns to navigate a 2D grid, dodging obstacles (trees and birds) by choosing to stay or jump. The project demonstrates reinforcement learning concepts with a simple, interactive interface.
 
 ![DinoRL Screenshot](imag.png)

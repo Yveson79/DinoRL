@@ -1,4 +1,4 @@
-# DinoRL
+# 🦖DinoRL
 
 DinoRL is a Q-learning-based game where an agent learns to navigate a 2D grid, dodging obstacles (trees and birds) by choosing to stay or jump. The project demonstrates reinforcement learning concepts with a simple, interactive interface.
 
@@ -30,7 +30,7 @@ DinoRL is a Q-learning-based game where an agent learns to navigate a 2D grid, d
 ## Setup
 1. **Clone or Navigate to the Project Directory**:
    \`\`\`bash
-   cd ~/Área\ de\ trabalho/Deposit/Meus\ projetos/DinoRL
+   cd /DinoRL
    \`\`\`
 
 2. **Create and Activate a Virtual Environment** (optional but recommended):
